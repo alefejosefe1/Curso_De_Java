@@ -1,0 +1,8 @@
+-CamelCase
+	# Sempre que apararecer a primeira letra Maiuscula ou é "Classe" ou "Interface"
+           	
+	# Se a primeira for minuscula e as outras foram como CamelCase ela pode ser ou "Atributo" ou "Variavel ou "Metodo"
+
+	# Se todas letras for MAIUSCULAS é uma "CONSTANTE"
+
+	# Se todas letras for minusculas é um "pacote"
